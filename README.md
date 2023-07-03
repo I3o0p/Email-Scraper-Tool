@@ -2,7 +2,7 @@
 Email Scraper Tool In Python 3
 
 
-Hoe to use 
+How to use 
 
 ```
 git clone https://github.com/I3o0p/Email-Scraper-Tool
